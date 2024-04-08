@@ -1,0 +1,2 @@
+MODEL_PATH,PROPERTY_PATH,VER_HEURISTIC,IS_VERIFIED,TIME
+models/CDAD_ReLUNode_[32-8-32].onnx,properties/CDAD_ReLUNode_[32-8-32]_e=0.1_d=0.2.vnnlib,overapprox,False,24.587457750000002
